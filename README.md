@@ -1,6 +1,6 @@
-# eslint-init
+# eslint-setup
 
-> setup eslint faster with many plugins like Typescript, React, Vue...
+> ClI tool for setup eslint faster with many plugins like Typescript, React, Vue...
 
 ## Supported plugins
 
